@@ -6,7 +6,7 @@ https://cloud.withgoogle.com/next/sf/sessions#
 Google Cloud Next 2019 - all videos on Youtube
 https://www.youtube.com/playlist?list=PLIivdWyY5sqIXvUGVrFuZibCUdKVzEoUw
 
-Free hands-on training
+Free labs - training offer
 https://cloud.google.com/training/free-labs#free-offers
 
 Codelabs
