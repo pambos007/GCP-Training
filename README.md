@@ -9,7 +9,7 @@ https://www.youtube.com/playlist?list=PLIivdWyY5sqIXvUGVrFuZibCUdKVzEoUw
 Free labs - training offer
 https://cloud.google.com/training/free-labs#free-offers
 
-Codelabs )free)
+Codelabs (free)
 https://codelabs.developers.google.com/
 
 Coursera
