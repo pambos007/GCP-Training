@@ -17,3 +17,5 @@ https://www.coursera.org/
 
 Qwiklabs
 https://www.qwiklabs.com/
+
+https://github.com/sathishvj/awesome-gcp-certifications
